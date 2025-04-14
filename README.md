@@ -1,4 +1,4 @@
-#Single Neural Network Implementation
+# Single Neural Network Implementation
 Single NN. Implemented on the solution for the following equation
 
 y= 3x+2.3
